@@ -16,6 +16,15 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
 p {
   font-size: 18px;
+}
+
+#study {
+  list-style: none;
 }
